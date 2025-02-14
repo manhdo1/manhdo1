@@ -247,10 +247,10 @@
       height="40"
     />
   </a>
-</p>;
+</p>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhdo1&show_icons=true&locale=en&layout=compact" alt="manhdo1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhdo1&show_icons=true&locale=en" alt="manhdo1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhdo1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="manhdo1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhdo1&show_icons=true&theme=tokyonight&locale=en" alt="manhdo1" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manhdo1&" alt="manhdo1" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manhdo1&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a></p>
