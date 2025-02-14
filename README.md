@@ -253,4 +253,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhdo1&show_icons=true&theme=tokyonight&locale=en" alt="manhdo1" /></p>
 </div>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=manhdo1&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=manhdo1&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></p>
