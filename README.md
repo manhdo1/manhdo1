@@ -252,5 +252,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhdo1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="manhdo1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhdo1&show_icons=true&theme=tokyonight&locale=en" alt="manhdo1" /></p>
 </div>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=manhdo1&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></p>
