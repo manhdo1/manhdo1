@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Manh Do</h1>
 
-<h3>Senior Full-Stack Developer</h3>
+<h3>Full-Stack Developer</h3>
 
 <p>
 Building scalable web applications with clean architecture, performance in mind, and long-term maintainability.
